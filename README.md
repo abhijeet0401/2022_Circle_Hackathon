@@ -23,9 +23,13 @@ CEEDI SCANNER is enabled with Verite service to verify the user identity user ha
 3.  Install the Application.
 
 ## Verite Implementation
-https://github.com/abhijeet0401/2022_Circle_Hackathon/blob/main/Ceedirestaurant/app/src/main/java/com/android/deliveryapp/SsiWallet.kt(Issuer)
+https://github.com/abhijeet0401/2022_Circle_Hackathon/blob/main/Ceedirestaurant/app/src/main/java/com/android/deliveryapp/SsiWallet.kt
 
-https://github.com/abhijeet0401/2022_Circle_Hackathon/blob/main/barcodescannerceedi/app/src/main/java/com/d4rk/qrcodescanner/VerifyingssiActivity.kt(Verifier)
+(Issuer)
+
+https://github.com/abhijeet0401/2022_Circle_Hackathon/blob/main/barcodescannerceedi/app/src/main/java/com/d4rk/qrcodescanner/VerifyingssiActivity.kt
+
+(Verifier)
 
 
 <img src='./ScreenShot/VeriteId.jpg' />
