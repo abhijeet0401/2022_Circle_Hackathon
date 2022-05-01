@@ -18,7 +18,7 @@ CEEDI SCANNER is enabled with Verite service to verify the user identity user ha
 ## How to Install
 1.  Clone the Repo or Download the Source File
 
-2.  Tranfer the both apk file from APK Folder to Android Phone
+2.  Transfer the both apk file from APK Folder to Android Phone
 
 3.  Install the Application.
 
